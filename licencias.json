@@ -1,6 +1,11 @@
 {
-  "gonzalo": "ok",
-  "marcelo": "no",
-  "matias": "ok",
-  "franco": "ok"
+  "ASIER-7F92-KLQ1":{
+    "cliente":"Carnicería López",
+    "estado":"ok"
+  },
+
+  "ASIER-4K21-ZXP8":{
+    "cliente":"Marcelo",
+    "estado":"no"
+  }
 }
